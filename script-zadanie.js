@@ -65,4 +65,4 @@ document.writeln(`<p>Koszt przejadu ${trasa} km z spalaniem ${spalanie_samochodu
 let money1 = a * 0.08
 let money2 = money1 * 0.81
 
-document.writeln(`<p>zysk z lokaty, oprocentowanie 8% z podadkiem belki z ${a} pln: ${money2} pln</p>`);
+document.writeln(`<p>zysk z lokaty, oprocentowanie 8% z podatkiem belki z ${a} pln: ${money2} pln</p>`);
